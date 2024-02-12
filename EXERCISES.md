@@ -2,21 +2,21 @@
 
 ### Nível 1
 
-1. Fazer um algoritmo que leia um número inteiro e imprima seu sucessor e seu antecessor.
+1. <s>Fazer um algoritmo que leia um número inteiro e imprima seu sucessor e seu antecessor.</s>
 
-2. Escreva um algoritmo para ler o preço de um par de nadadeiras numa loja, e escrevê-lo com um desconto de X%.
+2. <s>Escreva um algoritmo para ler o preço de um par de nadadeiras numa loja, e escrevê-lo com um desconto de X%.</s>
 
-3. Numa loja de materiais de construção, um azulejo estampado custa R$ 14,90. Faça um algoritmo para ler o comprimento e altura de uma parede (em metros), e depois escrever o valor gasto com a compra de azulejos. Considere que um metro quadrado é formado por 9 azulejos.
+3. <s>Numa loja de materiais de construção, um azulejo estampado custa R$ 14,90. Faça um algoritmo para ler o comprimento e altura de uma parede (em metros), e depois escrever o valor gasto com a compra de azulejos. Considere que um metro quadrado é formado por 9 azulejos.</s>
 
-4. Fazer um algoritmo que entre com uma distância (km) e o tempo de viagem (horas) de um automóvel, e dizer se a velocidade média foi superior ao limite (110 km/h) ou não.
+4. <s>Fazer um algoritmo que entre com uma distância (km) e o tempo de viagem (horas) de um automóvel, e dizer se a velocidade média foi superior ao limite (110 km/h) ou não.</s>
 
-5. Escreva um algoritmo que leia um número inteiro e verifique se ele é par e divisível por 3.
+5. <s>Escreva um algoritmo que leia um número inteiro e verifique se ele é par e divisível por 3.</s>
 
-6. Fazer um algoritmo que leia dois números inteiros e imprima a soma entre eles. Antes de apresentar o resultado, imprimir a mensagem: "Soma =".
+6. <s>Fazer um algoritmo que leia dois números inteiros e imprima a soma entre eles. Antes de apresentar o resultado, imprimir a mensagem: "Soma =". </s>
 
 7. Fazer um algoritmo que leia um ângulo em graus e imprima o seno, co-seno, tangente, secante, co-secante e cotangente deste ângulo. (Obs.: é necessário transformar o ângulo em radianos antes de aplicar as funções trigonométricas).
 
-8. Fazer um algoritmo que leia o valor de `x` e `y`, calcule a função abaixo e escreva os valores de `x`, `y` e da função calculada:
+8. <s>Fazer um algoritmo que leia o valor de `x` e `y`, calcule a função abaixo e escreva os valores de `x`, `y` e da função calculada: </s>
 
 $f(x,y) = \frac{ x^2 + 3x + y^2 }{ xy - 5y -3x + 15 }$
 
