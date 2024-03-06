@@ -20,7 +20,7 @@
 
 $f(x,y) = \frac{ x^2 + 3x + y^2 }{ xy - 5y -3x + 15 }$
 
-9. A energia potencial de um objeto devido à sua altura sobre a superfície da Terra é dada pela equação:
+9. <s>A energia potencial de um objeto devido à sua altura sobre a superfície da Terra é dada pela equação:
 
 $EP =  m . g . h$
 
@@ -28,7 +28,7 @@ onde `m` é a massa do objeto, `g` é a aceleração da gravidade, e `h` é a al
 
 $EFC = \frac{1}{2} m . v^2$
 
-onde `m` é massa do objeto e `v` é a velocidade do mesmo. Sendo $g = 9,81 m/s^2$, escreva um algoritmo que leia `m`, `v` e `h`, calcule a energia total ($ET = EP + EC$) possuída por um objeto no campo gravitacional da Terra, e escreva os valores de `EP`, `EC` e `ET`.
+onde `m` é massa do objeto e `v` é a velocidade do mesmo. Sendo $g = 9,81 m/s^2$, escreva um algoritmo que leia `m`, `v` e `h`, calcule a energia total ($ET = EP + EC$) possuída por um objeto no campo gravitacional da Terra, e escreva os valores de `EP`, `EC` e `ET`. </s>
 
 10. Se uma bola parada é solta de um altura h acima da superfície da Terra, a velocidade da bola v quando ela atinge a Terra é dada pela equação
 
