@@ -10,3 +10,12 @@ test("Deve calcular o peso no planeta escolhido", (t) => {
 
     assert.strictEqual(resultado, 11.5)
 })
+
+test("Deve retornar undefined", (t) => {
+    const planeta = 7
+    const peso = 100
+
+    const resultado = convertWeightPlanet(peso, planeta)
+
+    assert.strictEqual(resultado, undefined)
+})
